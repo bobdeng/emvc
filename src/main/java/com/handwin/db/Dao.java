@@ -21,4 +21,5 @@ public interface Dao {
 	public Session getSession()throws HException;
 	public void flush()throws HException;
 	public void clear()throws HException;
+    
 }
