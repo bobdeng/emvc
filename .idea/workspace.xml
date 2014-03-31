@@ -6,8 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae20094-7699-457b-8ffd-ed873a05bd2e" name="Default" comment="build&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/emvc.jar" />
+    <list default="true" id="4ae20094-7699-457b-8ffd-ed873a05bd2e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/emvc.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/emvc.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/emvc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="emvc.iws" />
@@ -120,7 +121,7 @@
       <file leaf-file-name="Dao.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/db/Dao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="48" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="13" column="48" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="465">
               <folding />
             </state>
           </provider>
@@ -129,7 +130,7 @@
       <file leaf-file-name="Database.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/db/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="5" selection-start="523" selection-end="523" vertical-scroll-proportion="0.47568712" vertical-offset="0" max-vertical-offset="615">
+            <state line="57" column="4" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.6884562" vertical-offset="0" max-vertical-offset="719">
               <folding />
             </state>
           </provider>
@@ -268,6 +269,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -293,19 +307,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -399,7 +400,11 @@
       <created>1396274557920</created>
       <updated>1396274557920</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="build&#10;">
+      <created>1396275126052</created>
+      <updated>1396275126052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -416,7 +421,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32931727" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -455,6 +460,55 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="28" selection-start="1677" selection-end="1677" vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/util/TransferUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="15450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/util/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="13" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="5070">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/web/json/ActionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="10170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/web/UrlCookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/db/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="48" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/db/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="5" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="41" selection-start="1971" selection-end="1971" vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="1275">
@@ -590,7 +644,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/handwin/db/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="523" selection-end="523" vertical-scroll-proportion="0.47568712" vertical-offset="0" max-vertical-offset="615">
+        <state line="57" column="4" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.6884562" vertical-offset="0" max-vertical-offset="719">
           <folding />
         </state>
       </provider>
