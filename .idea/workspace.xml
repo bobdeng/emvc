@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ae20094-7699-457b-8ffd-ed873a05bd2e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/emvc.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/emvc.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/emvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/emvc1.0.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="emvc.iws" />
@@ -404,7 +403,11 @@
       <created>1396275126052</created>
       <updated>1396275126052</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="build&#10;">
+      <created>1396275272686</created>
+      <updated>1396275272686</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
